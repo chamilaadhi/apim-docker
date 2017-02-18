@@ -9,6 +9,6 @@ Use following commands to build the image
 ```bash
 docker login docker.wso2.com
 
-docker build -t is-as-km .
+docker build -t am-analytics .
 ```
 
